@@ -20,7 +20,6 @@ body{
 }
 
 header .container{
-    border: 1px solid blue;
     display: flex;
     flex-direction: row;  
     align-items: center;
@@ -93,9 +92,15 @@ header nav a:hover{
     margin-right: 8px;
 }
 
+.container {
+    margin-left: 30px;
+}
 
+.filme-principal .container{
+    width: 70%;
+}
 
-
+ 
 
 
 
