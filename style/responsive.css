@@ -15,4 +15,8 @@
     .descricao{
         width: 50%; 
     }
+    .filme-principal{
+       background-size: 80%;
+     
+    }
 }
